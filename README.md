@@ -27,6 +27,21 @@ AI와 딥러닝 기초
 | 03 | [Sequence Models & Transformers](./notes/03-sequence-models-and-transformers.md) | Seq2Seq, Attention, Transformer, BERT, GPT |
 | 04 | [RAG & Multimodal AI](./notes/04-rag-and-multimodal-ai.md) | LLM Limitations, RAG, Embedding, Vector Search, CLIP |
 
+## Original Notes & Practice Files
+
+요약 과정에서 내용이 사라지지 않도록 기존에 작성한 원본 자료를 `raw-materials/`에 그대로 보존했습니다. 정리된 개념 문서와 함께 원본 설명, 코드, 실행 결과와 첨부 자료도 확인할 수 있습니다.
+
+| Date | Original Material | Format |
+|---|---|---|
+| 06.23 | [AI·딥러닝 기초 실습](./raw-materials/2026_06_23_구정현_ipynb의_사본.ipynb) | Jupyter Notebook |
+| 06.24 | [RNN 학습 자료](./raw-materials/2026-06-24_구정현.pages) | Pages |
+| 06.25 | [텍스트 전처리 실습](./raw-materials/2026-06-25_구정현.ipynb) · [Notion 원문](./raw-materials/6월%2025일%2038a0b3c11a1e8012b87ef0c13ea44dff.md) | Notebook · Markdown |
+| 06.26 | [PyTorch 실습](./raw-materials/2026-06-26_구정현.ipynb) · [Notion 원문](./raw-materials/6월%2026일%2038b0b3c11a1e80f8b770cf78d4c4517b.md) | Notebook · Markdown |
+| 06.30 | [모델 학습·경사하강법 이론](./raw-materials/_26.06.30_이론.pdf) | PDF |
+| 07.01 | [Seq2Seq·Attention 실습](./raw-materials/2026_07_01_구정현_ipynb의_사본.ipynb) | Jupyter Notebook |
+| 07.02 | [Transformer 실습](./raw-materials/2026_07_02_구정현_ipynb의_사본.ipynb) | Jupyter Notebook |
+| 07.07 | [RAG 실습](./raw-materials/2026_07_07_구정현의_사본.ipynb) · [Notion 원문](./raw-materials/7월%207일%203960b3c11a1e807e853df962eaff266d.md) | Notebook · Markdown |
+
 ## Study Timeline
 
 | Date | Original Notion Topic | Organized In |
@@ -67,11 +82,16 @@ AI와 딥러닝 기초
 ```text
 .
 ├── README.md
-└── notes
-    ├── 01-ai-deep-learning-fundamentals.md
-    ├── 02-nlp-pytorch-fundamentals.md
-    ├── 03-sequence-models-and-transformers.md
-    └── 04-rag-and-multimodal-ai.md
+├── notes
+│   ├── 01-ai-deep-learning-fundamentals.md
+│   ├── 02-nlp-pytorch-fundamentals.md
+│   ├── 03-sequence-models-and-transformers.md
+│   └── 04-rag-and-multimodal-ai.md
+└── raw-materials
+    ├── *.ipynb
+    ├── *.md
+    ├── *.pages
+    └── *.pdf
 ```
 
 ## Note Format
