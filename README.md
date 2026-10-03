@@ -37,9 +37,11 @@ AI와 딥러닝 기초
 | 06.24 | [RNN 학습 자료](./raw-materials/2026-06-24_구정현.pages) | Pages |
 | 06.25 | [텍스트 전처리 실습](./raw-materials/2026-06-25_구정현.ipynb) · [Notion 원문](./raw-materials/6월%2025일%2038a0b3c11a1e8012b87ef0c13ea44dff.md) | Notebook · Markdown |
 | 06.26 | [PyTorch 실습](./raw-materials/2026-06-26_구정현.ipynb) · [Notion 원문](./raw-materials/6월%2026일%2038b0b3c11a1e80f8b770cf78d4c4517b.md) | Notebook · Markdown |
+| 06.29 | [NLP Task Notion 원문](./raw-materials/notion-export/2026-06-29/6월29일(NLP)%203d10b3c11a1e80058f58ed24dc26016f.md) · [첨부 이미지](./raw-materials/notion-export/2026-06-29/6월29일(NLP)) | Markdown · Images |
 | 06.30 | [모델 학습·경사하강법 이론](./raw-materials/_26.06.30_이론.pdf) | PDF |
 | 07.01 | [Seq2Seq·Attention 실습](./raw-materials/2026_07_01_구정현_ipynb의_사본.ipynb) | Jupyter Notebook |
 | 07.02 | [Transformer 실습](./raw-materials/2026_07_02_구정현_ipynb의_사본.ipynb) | Jupyter Notebook |
+| 07.03 | [BERT Notion 원문](./raw-materials/notion-export/2026-07-03/7월3일(BERT)%203d10b3c11a1e8082b4afef8d36663a8b.md) · [첨부 이미지](./raw-materials/notion-export/2026-07-03/7월3일(BERT)) | Markdown · Images |
 | 07.07 | [RAG 실습](./raw-materials/2026_07_07_구정현의_사본.ipynb) · [Notion 원문](./raw-materials/7월%207일%203960b3c11a1e807e853df962eaff266d.md) | Notebook · Markdown |
 
 ## Study Timeline
@@ -88,6 +90,9 @@ AI와 딥러닝 기초
 │   ├── 03-sequence-models-and-transformers.md
 │   └── 04-rag-and-multimodal-ai.md
 └── raw-materials
+    ├── notion-export
+    │   ├── 2026-06-29
+    │   └── 2026-07-03
     ├── *.ipynb
     ├── *.md
     ├── *.pages
